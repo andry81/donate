@@ -24,7 +24,7 @@ For donations:
     <td>
     </td>
     <td align="center">
-      <a href="https://github.com/sponsors/andry81"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/github-sponsor.svg" valign="middle" alt="github sponsor" /></a>
+      <a href="https://github.com/sponsors/andry81"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/github-sponsor.svg" valign="middle" alt="github sponsor" /></a>
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ For donations:
       <tt>RUB</tt>
     </td>
     <td align="center">
-      <a href="https://yoomoney.ru/to/4100117744283123"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/yoomoney-donate.svg" valign="middle" alt="yoomoney donate" /></a>
+      <a href="https://yoomoney.ru/to/4100117744283123"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/yoomoney-donate.svg" valign="middle" alt="yoomoney donate" /></a>
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ For donations:
       <tt>RUB</tt>
     </td>
     <td align="center">
-      <a href="https://yoomoney.ru/quickpay/shop-widget?writer=buyer&targets=Donation%20to%20andry81&targets-hint=Donate%20to%20andry81&button-text=14&quickpay=shop&account=4100117744283123"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/yoomoney-donate.svg" valign="middle" alt="yoomoney donate" /></a>
+      <a href="https://yoomoney.ru/quickpay/shop-widget?writer=buyer&targets=Donation%20to%20andry81&targets-hint=Donate%20to%20andry81&button-text=14&quickpay=shop&account=4100117744283123"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/yoomoney-donate.svg" valign="middle" alt="yoomoney donate" /></a>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ For donations:
     <td>
     </td>
     <td align="center">
-      <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&business=andry%40inbox.ru"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&business=andry%40inbox.ru"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ For donations:
       <tt>RUB</tt>
     </td>
     <td align="center">
-      <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&currency_code=RUB&business=andry%40inbox.ru"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&currency_code=RUB&business=andry%40inbox.ru"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
     </td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ For donations:
       <tt>USD</tt>
     </td>
     <td align="center">
-      <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&currency_code=USD&business=andry%40inbox.ru"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&currency_code=USD&business=andry%40inbox.ru"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
     </td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ For donations:
       <tt>EUR</tt>
     </td>
     <td align="center">
-      <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&currency_code=EUR&business=andry%40inbox.ru"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&currency_code=EUR&business=andry%40inbox.ru"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
     </td>
   </tr>
 </table>
@@ -137,7 +137,7 @@ For support:
       Paypal
     </td>
     <td align="center">
-      <a href="https://issuehunt.io/u/andry81"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/support/issuehunt-support.svg" valign="middle" alt="issuehunt support" /></a>
+      <a href="https://issuehunt.io/u/andry81"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-support.svg" valign="middle" alt="issuehunt support" /></a>
     </td>
   </tr>
 </table>
