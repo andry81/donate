@@ -137,7 +137,7 @@ For support:
       Paypal
     </td>
     <td align="center">
-      <a href="https://issuehunt.io/u/andry81"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-support.svg" valign="middle" alt="issuehunt support" /></a>
+      <a href="https://oss.issuehunt.io/u/andry81"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-support.svg" valign="middle" alt="issuehunt support" /></a>
     </td>
   </tr>
 </table>
