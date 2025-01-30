@@ -1,7 +1,9 @@
+<!-- -->
 <p align="center">
   <a href="https://github.com/gjbae1212/hit-counter">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandry81%2Fdonate&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" valign="middle" alt="page views by hits.seeyoufarm.com" /></a>
 </p>
+<!-- -->
 
 For donations:
 
@@ -22,14 +24,16 @@ For donations:
   </tr>
   <tr>
     <td>
-      Github
+      Boosty
     </td>
     <td>
+      2.8% fee on withdraw plus ~10% agency fee, details: https://boosty.to/app/offer/payment-terms-cis
     </td>
     <td>
+      <tt>RUB/USD/EUR</tt>
     </td>
     <td align="center">
-      <a href="https://github.com/sponsors/andry81"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/github-sponsor.svg" valign="middle" alt="github sponsor" /></a>
+      <a href="https://boosty.to/andry81"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/boosty-donate.svg" valign="middle" alt="boosty donate" /></a>
     </td>
   </tr>
   <tr>
@@ -37,7 +41,7 @@ For donations:
       YooMoney
     </td>
     <td>
-      transfer form, details: https://yoomoney.ru/page?id=536228
+      commission <tt>1%-3%</tt>, details: https://yoomoney.ru/page?id=536228
     </td>
     <td>
       <tt>RUB</tt>
@@ -46,18 +50,34 @@ For donations:
       <a href="https://yoomoney.ru/to/4100117744283123"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/yoomoney-donate.svg" valign="middle" alt="yoomoney donate" /></a>
     </td>
   </tr>
+</table>
+
+<!-- -- >
+<table>
   <tr>
     <td>
       YooMoney
     </td>
     <td>
-      quickpay form, commission <tt>2%</tt>
+      quickpay form, commission <tt>1%-3%</tt>
     </td>
     <td>
       <tt>RUB</tt>
     </td>
     <td align="center">
       <a href="https://yoomoney.ru/quickpay/shop-widget?writer=buyer&targets=Donation%20to%20andry81&targets-hint=Donate%20to%20andry81&button-text=14&quickpay=shop&account=4100117744283123"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/yoomoney-donate.svg" valign="middle" alt="yoomoney donate" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Github
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sponsors/andry81"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/github-sponsor.svg" valign="middle" alt="github sponsor" /></a>
     </td>
   </tr>
   <tr>
@@ -113,6 +133,7 @@ For donations:
     </td>
   </tr>
 </table>
+<!-- -->
 
 For support:
 
@@ -157,6 +178,16 @@ Services details:
     <th>
       Details
     </th>
+  </tr>
+  <tr>
+    <td>
+      Boosty
+    </td>
+    <td>
+      <list>
+        <li>https://boosty.to/app/offer/payment-terms</li>
+      </list>
+    </td>
   </tr>
   <tr>
     <td>
