@@ -16,6 +16,9 @@ For donations:
       Details
     </th>
     <th>
+      Login to donate
+    </th>
+    <th>
       Currency
     </th>
     <th>
@@ -27,7 +30,16 @@ For donations:
       Boosty
     </td>
     <td>
-      2.8% fee on withdraw plus ~10% agency fee, details: https://boosty.to/app/offer/payment-terms-cis
+      <p>
+      <list>
+        <li><tt>~10%</tt> agency fee</li>
+        <li><tt>2.8%</tt> fee on withdraw</li>
+      </p>
+      </div>
+      https://boosty.to/app/offer/payment-terms-cis
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/static/REQUIRED.svg" valign="middle" alt="REQUIRED" /></a>
     </td>
     <td>
       <tt>RUB/USD/EUR</tt>
@@ -41,13 +53,56 @@ For donations:
       YooMoney
     </td>
     <td>
-      commission <tt>1%-3%</tt>, details: https://yoomoney.ru/page?id=536228
+      <list>
+        <li>service <tt>1%-3%</tt> fee</li>
+      <list>
+      https://yoomoney.ru/page?id=536228
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/static/OPTIONAL.svg" valign="middle" alt="OPTIONAL" /></a>
     </td>
     <td>
       <tt>RUB</tt>
     </td>
     <td align="center">
       <a href="https://yoomoney.ru/to/4100117744283123"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/yoomoney-donate.svg" valign="middle" alt="yoomoney donate" /></a>
+    </td>
+  </tr>
+</table>
+
+> [!NOTE]
+> All services may not include transfer commissions.
+
+Transfer commission examples:
+
+<table>
+  <tr>
+    <th>
+      Transfer
+    </th>
+    <th>
+      Method
+    </th>
+    <th>
+      Commission
+    </th>
+    <th>
+      Actuality
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Sberbank&nbsp;->&nbsp;Yoomoney
+    </td>
+    <td>
+      Card
+    </td>
+    <td>
+      <tt>1.25%</tt> or <tt>50&#x20bd;</tt>.<br/>
+      https://www.banki.ru/services/responses/bank/response/11859118/
+    </td>
+    <td>
+      <tt>2025.02.01</tt>
     </td>
   </tr>
 </table>
