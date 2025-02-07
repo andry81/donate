@@ -43,7 +43,7 @@ For donations:
       <tt>RUB/USD/EUR/*</tt>
     </td>
     <td align="center">
-      <a href="https://boosty.to/andry81"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/boosty-donate.svg" valign="middle" alt="boosty donate" /></a>
+      <a href="https://boosty.to/andry81/donate"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/boosty-donate.svg" valign="middle" alt="boosty donate" /></a>
     </td>
   </tr>
   <tr>
