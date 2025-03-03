@@ -53,7 +53,7 @@ For donations:
     <td>
       <list>
         <li>service <tt>1-3%</tt> fee</li>
-        <li><tt>0-3%%</tt> or <tt>15-100&#x20bd;</tt> fee on withdraw</li>
+        <li><tt>0-3%</tt> or <tt>15-100&#x20bd;</tt> fee on withdraw</li>
       </list>
       https://yoomoney.ru/page?id=536224
     </td>
@@ -100,7 +100,7 @@ Transfer commission examples:
       Card
     </td>
     <td>
-      <tt>0-2,7%</tt>
+      <tt>0-2.7%</tt>
     </td>
     <td>
       <tt>2025.02.01</tt>
